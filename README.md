@@ -1,20 +1,10 @@
 
 # Plaigirism Detection System
 
-For CS315 - Algorithm design & analysis #5262    
-Instructor Dr. Renad Alsweed
+For CS315 - Algorithm design & analysis 
+
 
 In this project, we are working on detecting how similar two texts are in order to identify possible plagiarism. Plagiarism Detection is working by comparing a submission file against a selected document within subjects (scientific, literature, and academic). 
-
-## Students
-
-- Sarah Alharbi - 431201842
-- Marah Alshebel - 441203542
-- Budur Aljohani - 432205315
-- Elaf Aldobian - 432205184
-- Lama Alomair - 422205736
-
-
 
 ## Used algorithms
 Implemented in python.
