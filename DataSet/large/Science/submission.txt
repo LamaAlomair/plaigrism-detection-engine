@@ -1,0 +1,261 @@
+That every substance, whether firm or fluid, enlarges in all its
+dimensions when its sensible warmth is increased, was long since firmly
+received as a physical maxim, or universal truth, by the illustrious
+Boerhaave. The few observations that have been brought forward to oppose
+the universality of this rule present only deceptive appearances, or at
+least such as are so entangled with extraneous circumstances as naturally
+to misguide the understanding. But, when we consider the effects
+separately, referring each merely to the cause to which it truly
+belongs, it becomes evident that the disengagement of particles by heat
+is a constant and comprehensive law of nature.
+
+When a solid mass is raised to a certain temperature and thereby its
+particles compelled to recede from one another, if we afterwards suffer
+the body to cool, its component particles return towards each other in a
+proportion exactly corresponding to that in which they had been forced
+apart by the added heat; the body passes back through the very degrees
+of expansion through which it had advanced; and, if we restore it to the
+same warmth from which we began our experiment, it resumes precisely the
+same bulk which it formerly possessed. But as we are exceedingly remote
+from attaining absolute cold, or the entire deprivation of heat, and as
+we are unacquainted with any degree of cold that we may not still suppose
+capable of being further increased, it follows that we are not yet able
+to bring the ultimate particles of bodies as near each other as nature
+will permit; hence, the particles of no bodies known to us actually touch
+one another in any state yet observed, which, though a singular doctrine,
+cannot reasonably be rejected.
+
+It may be inferred that, since the particles of bodies are thus
+incessantly urged by heat to separate, they would hold no natural
+connection; and thus, that there could be no solidity whatever unless
+they were restrained by some contrary power, tending to unite them and,
+as it were, to bind them together. This power, in whatever manner it acts
+or from whatever origin it proceeds, is termed Attraction.
+
+Thus the elementary particles of all substances may be viewed as subject
+to two contrary influences, one repelling, the other attractive, between
+which they continue poised. While the attractive energy predominates, the
+substance remains solid; but if, on the other hand, heat should so far
+urge the particles apart as to remove them beyond the reach of each
+other’s attraction, they lose their former coherence, and the body ceases
+to retain its solidity.
+
+Water affords a regular and familiar instance of these truths; while kept
+below Zero of the French scale, or 32° of Fahrenheit, it remains solid,
+and is termed ice. Above that point, its particles, being no longer held
+together by mutual attraction, become free to move, and it forms a
+liquid; and when its heat is raised above 80° (212°), its particles,
+yielding to the repulsive influence of the warmth, assume the form of
+vapour or gas, and the water becomes an elastic aeriform fluid.
+
+The same remark extends to all substances whatsoever: they exist either
+as solids, liquids, or elastic vapours, according to the proportion which
+prevails between the attractive force inherent in their particles and the
+repelling influence of heat; or, in other words, according to the degree
+of heat to which they are exposed.
+
+It is not easy to conceive these appearances without admitting them to
+arise from the presence of a real and material agent, or extremely subtile
+fluid, which, insinuating itself among the particles of bodies, forces
+them asunder; and even if the supposition of this fluid be regarded as
+hypothetical, we shall discover, in the progress of this treatise, that
+it explains the operations of nature with considerable exactness.
+
+This agent, whatever its essence may be, being the cause of heat, or, in
+other terms, the sensation we call warmth being produced by the
+accumulation of this agent, we cannot with strict propriety designate it
+by the name heat; because that term would then awkwardly denote both
+cause and effect. Hence, in the memoir I published in 1777, I assigned to
+it the appellations igneous fluid and matter of heat. And since that
+period, in the work prepared by Mr. de Morveau, Mr. Berthollet, Mr. de
+Fourcroy, and myself on the reformation of chemical nomenclature, we
+judged it proper to discard all circumlocutory expressions which lengthen
+scientific language and render it more tedious and less precise, and
+which often fail to convey sufficiently accurate notions. Therefore we
+have distinguished the cause of heat, or that highly elastic fluid which
+produces it, by the name caloric. Besides satisfying the requirement of
+our system, this term possesses the further merit of harmonizing with
+every hypothesis; for, strictly speaking, we are not compelled to regard
+it as a real substance: it is sufficient, as will be shown in the sequel,
+that it be taken as the repelling cause, whatever its nature, which
+separates the particles of matter; so that we remain free to examine its
+influences in an abstract or mathematical light.
+In the condition of our current scientific understanding, we cannot yet assert with confidence whether light should be viewed as a transformed state of caloric, or whether caloric itself might instead be a transformed condition of light. What is certain, however, is that in any framework where only firmly established facts are permitted, and where we avoid assuming the existence of anything not yet clearly proven, we must, for the moment, separate by distinct names those agents that are known to bring about different effects. For this reason we treat light and caloric as separate entities, though we do not deny that they share several traits, or that under particular circumstances they unite with other substances in nearly the same fashion and yield results that are partly alike.
+
+What has been said above may serve to outline the notion connected with the term caloric; yet there remains a far more delicate task, which is to convey a proper idea of the way in which caloric influences other bodies. Because this subtle agent passes through the pores of every known material, because there exists no container capable of preventing its escape, and since it cannot be confined, we can understand its nature only through effects that are temporary and difficult to measure. In dealing with things we can neither see nor touch, we must be especially cautious not to allow imagination—ever eager to wander beyond the truth and hard to restrain within the strict lines of verified fact—to lead us astray.
+
+We have already noted that any given substance may become solid, liquid, or aeriform depending on the amount of caloric it contains; or, stated more rigorously, according to whether the repulsive force exerted by the caloric equals, exceeds, or falls short of the cohesive attraction among the particles of the substance upon which it acts.
+
+If these two forces alone were present, a material would pass into a liquid state at a single, sharply defined degree on the thermometer, and would almost instantly shift from a solid arrangement to one of aeriform expansion. Water, for example, would begin to boil the moment it ceased to be ice, and would immediately become an elastic vapor whose particles dispersed without limit through the surrounding space. Since this is not what occurs, there must exist a third agent influencing the process. The pressure of the atmosphere restrains this separation and keeps the water liquid until it is heated to roughly 80 degrees (212 degrees) above zero on the French scale, the caloric at lower temperatures not being sufficient to counterbalance the atmospheric weight.
+
+From this it follows that without atmospheric pressure permanent liquids could not exist; substances would only appear in that fleeting interval just as they melt, for even the slightest addition of caloric would instantly drive their particles apart and scatter them into the environment. Moreover, without atmospheric pressure we would scarcely have aeriform fluids in the usual sense, because once the attraction between particles is overpowered by caloric’s repulsive force, the particles would spread indefinitely, with nothing to confine their expansion except the possibility that gravity might eventually gather them into a sort of atmosphere.
+
+Simple reflection upon ordinary experiments is enough to confirm these statements. They are further demonstrated by the following experiment, described in the Memoirs of the French Academy for 1777, p. 426.
+
+A small, slender glass vessel A (Plate VII, Fig. 17), mounted on its stem P and filled completely with sulphuric ether,[5] is covered with a moistened bladder tied tightly around the neck with several loops of strong thread. For added security, a second bladder is placed over the first. Care must be taken that the ether fills the vessel so completely that not the slightest bubble of air remains between the liquid and the bladder. The vessel is then placed beneath the receiver BCD of an air-pump. The upper portion B of the receiver is fitted with a leather cover through which passes a wire EF, the point F being very sharp. A barometer GH is set within the receiver as well. When the receiver has been exhausted of air, the wire EF is pushed downward, piercing the bladder. At once the ether begins to boil violently and transforms into an elastic aeriform substance that fills the emptied chamber. If the original quantity of ether is sufficient to leave even a few drops in the vessel after the rapid evaporation, the produced vapor will support the barometer’s mercury column at about eight to ten inches during winter and between twenty and twenty-five inches during summer.[6] To complete the demonstration, a small thermometer may be inserted into the vessel A; during the evaporation it will fall significantly.
+The sole influence produced in this operation consists in removing the
+weight of the atmosphere which ordinarily presses upon the surface of
+the ether; and the consequences of withdrawing this pressure clearly
+show that, at the usual temperatures found on the earth, ether would
+naturally remain in an aeriform condition if the atmosphere did not hold
+it down, and that the transition of ether from liquid to aeriform is
+attended by a notable diminution of heat; for during the evaporation a
+portion of the caloric, previously free or at least balanced within the
+neighboring bodies, unites with the ether and forces it to assume the
+elastic state.
+
+The same procedure answers for all volatile liquids, such as alcohol,
+water, and even quicksilver; the difference lies in the degree of
+elastic atmosphere produced. The vapor formed from alcohol sustains the
+barometer in the receiver only about one inch in winter, and around four
+or five inches in summer; that from water raises the mercury only a few
+lines; and that from mercury lifts it only a small fraction of a line.
+Thus less fluid is evaporated from alcohol than from ether, less from
+water than from alcohol, and still less from mercury than from either;
+and consequently less caloric is absorbed and less cold is generated,
+which agrees exactly with the observed outcomes.
+
+Another class of experiment proves clearly that the aeriform condition
+of substances depends on the degree of heat and the pressure exerted on
+them. In a Memoir presented by Mr. de la Place and myself to the Academy
+in 1777, though never printed, we demonstrated that when ether is placed
+under a pressure of twenty-eight inches of the barometer, or roughly the
+usual atmospheric pressure, it boils at about 32° (104°) or 33° (106.25°)
+on the thermometer. Mr. de Luc, by similar trials with spirit of wine,
+found it boiling at 67° (182.75°). And it is universally known that
+water boils at 80° (212°). Since boiling is merely the evaporation of a
+liquid, or the instant at which it passes from fluid to aeriform state,
+it follows that if ether be kept constantly at 33° (106.25°) under the
+common pressure of the air, it will remain permanently elastic; and that
+alcohol will do the same above 67° (182.75°), and water above 80°
+(212°); all of which accords with the following experiment.[7]
+
+I filled a large vessel ABCD (Plate VII, Fig. 16) with water at 35°
+(110.75°) or 36° (113°). Let the vessel be transparent, so the
+phenomena may be seen; and the hands may easily be held in water of that
+temperature without discomfort. Into this I lowered slender-necked
+bottles F, G, after filling them completely with the water, then inverted
+them so their mouths rested on the bottom. Into a small matrass, whose
+neck a b c is bent twice as shown in the figure, I placed a little
+ether; then immersed the matrass in the bath so that its neck entered
+one of the bottles F. The moment the ether felt the warmth of the water
+in ABCD it began to boil; the caloric combining with it changed it into
+an elastic aeriform substance, with which I successively filled several
+bottles, F, G, and so forth.
+
+This is not the proper place to examine the nature or qualities of this
+highly inflammable aeriform product; but restricting myself to the
+matter at hand, and avoiding details the reader is not expected yet to
+know, I remark only that ether, according to this experiment, is scarcely
+able to remain liquid in our environment; for if the pressure of the
+air were only twenty to twenty-four inches of the barometer instead of
+twenty-eight, ether could never be preserved in the liquid form, at
+least in summer; and its production on moderately high mountains would
+be impossible, as it would convert to gas the instant it formed, unless
+vessels of exceptional strength, together with cooling and compression,
+were used. Finally, since the temperature of the blood approaches the
+point at which ether becomes aeriform, it would evaporate in the
+primae viae, and thus its medicinal efficacy most likely results chiefly
+from its mechanical operation.
+
+These experiments are more successful with nitrous ether, because it
+vaporizes at a lower temperature than sulphuric ether. Alcohol is more
+difficult to render aeriform; since it requires 67° (182.75°) to convert
+it into vapor, the water of the bath must be nearly boiling, and thus
+the hands cannot be immersed in it at that degree of heat.
+It is clear that, if water were substituted in the preceding experiment,
+it too would be converted into vapour when exposed to a temperature
+higher than its boiling point. Though Mr. de la Place and I were fully
+persuaded of this conclusion, we nevertheless thought it proper to
+verify it by a direct trial. We filled a glass jar A (Plate VII, Fig. 5)
+with mercury, inverted it in a basin B likewise containing mercury, and
+then introduced nearly two gross of water into the interior, where it
+rose above the mercury at CD. The entire arrangement was then plunged
+into an iron boiler EFGH, filled with boiling sea-water at 85° (123.25°),
+set over the furnace GHIK. As soon as the water resting on the mercury
+reached 80° (212°), it began to boil; and, instead of occupying only the
+narrow space ACD, it was transformed into an elastic aeriform fluid
+which filled the whole vessel. The mercury even sank below the level of
+that in the basin B; and the jar would have upset entirely had it not
+been made very thick and heavy, and secured to the dish by iron wire.
+The instant the apparatus was withdrawn from the boiler, the vapour
+began to condense, and the mercury returned to its original height; but
+upon replacing it again in the boiler a few moments afterward, the water
+once more passed into the elastic state.
+We therefore possess a collection of substances which may be rendered
+elastic aeriform fluids by temperatures not greatly surpassing that of
+our atmosphere. We shall later observe that several other materials
+behave likewise under similar conditions, such as the marine or
+muriatic acid, volatile alkali or ammonia, fixed air or carbonic acid,
+sulphurous acid, and others. All of these remain permanently elastic at
+or near the ordinary temperature of the air, and under its usual
+pressure.
+These observations—easily increased in number if required—authorize me
+to adopt, as a general rule, that nearly all substances in nature may
+exist in three distinct conditions: solid, liquid, and aeriform; and
+that these conditions depend on the amount of caloric united with the
+body. Henceforth I shall denote these elastic aeriform substances under
+the common term gas; and in each gas I shall separate the caloric,
+which acts somewhat in the manner of a solvent, from the substance which
+together with the caloric composes the base of the gas.
+To these bases, still imperfectly understood, we have been obliged to
+assign particular names; these I shall specify in Chapter IV of this
+treatise, after I have first described the phenomena belonging to the
+heating and cooling of bodies and established clear notions regarding
+the constitution of our atmosphere.
+We have already shown that the particles of every material in nature are
+held in a certain equilibrium between the attraction binding them
+together and the action of caloric which tends to separate them. Thus
+caloric not only surrounds the particles on all sides, but occupies
+every interval between them. We may form a picture of this by imagining
+a vessel filled with small round leaden shot, into which fine sand is
+poured so that it penetrates into the empty spaces between the bullets
+and fills every cavity. In this analogy the bullets correspond to the
+particles of matter, and the sand to the caloric surrounding them; with
+the single distinction that the bullets in the vessel touch each other,
+whereas the actual particles of bodies do not, being kept slightly apart
+by the intervening caloric.
+If, rather than spherical balls, we arrange solids of hexahedral,
+octahedral, or other regular shapes, the voids between them will become
+smaller and hold less sand. The same effect occurs in natural bodies:
+the spaces between their particles differ in size owing to the various
+shapes and magnitudes of the particles and the distance at which they
+are maintained, depending on the balance between their mutual
+attraction and the repulsive action of the caloric.
+It is in this sense we must interpret the expression introduced by the
+English philosophers, who first offered clear ideas on this topic: the
+capacity of bodies for containing the matter of heat. As illustrations
+drawn from tangible objects assist in conveying distinct notions of
+abstractions, we shall attempt to explain this by reviewing the
+behaviour of water with substances it wets and penetrates, adding a few
+remarks.
+If we submerge equal pieces of various types of wood—imagine cubes of a foot per side—into water, the liquid slowly works its way into their pores, causing every piece to enlarge in weight and size. Yet every kind of wood absorbs its own quantity of water; lighter and more openly grained woods take in more, while dense or finely compacted kinds allow far less to enter. The relative amounts of water received by each specimen depend upon the nature of the wood’s particles and the degree of attraction they possess toward water. Highly resinous wood, though perhaps quite porous, nonetheless admits only a small amount. Hence we may state that woods differ widely in their capacities for taking in water. We can even determine, from the increase of their weight, how much water they actually drew in; but because we do not know the amount originally present in the wood before immersion, we cannot ascertain the true, total quantity contained after removal from the water.
+
+The same sorts of conditions unquestionably occur with substances that are plunged into caloric; yet we must remember that water is a fluid incapable of compression, while caloric, on the other hand, has exceedingly great expansiveness. That is, the particles of caloric naturally strive to separate from each other whenever a different force urges them to approach too closely. This dissimilarity must inevitably produce remarkable differences in the results gained by experiments performed on these two kinds of substances.
+
+After settling these straightforward principles, it becomes simple to explain the meanings that must be attached to the following expressions. They are not synonymous, but each has its own definite and precise sense, as shown in the definitions below:
+
+Free caloric refers to that portion which is not united in any fashion with another substance. But, because we exist in a world in which caloric adheres strongly to matter, we can never succeed in obtaining it in a state of perfect freedom.
+
+Combined caloric is that which is held by bodies through affinity or elective attraction, so that it becomes incorporated with the substance itself, even contributing to its solidity.
+
+When we speak of the specific caloric of bodies, we mean the relative amounts of caloric needed to raise several substances of equal weight to the same degree of temperature. This proportional amount depends on the spacing between the component particles of each body, as well as on the firmness of their cohesion. This spacing—or the void produced by it—is, as already noted, referred to as a body’s capacity for holding caloric.
+
+Heat, considered as a sensation, or what we call sensible heat, is merely the effect experienced by our sensory organs from the motion or passage of caloric as it leaves neighboring bodies. Generally speaking, we perceive impressions only when motion occurs, and we could almost say as a fundamental rule that WITHOUT MOTION, NO SENSATION CAN EXIST. This applies precisely to our feelings of heat and cold. When we touch a cold object, the caloric—which continually seeks to equalize itself among bodies—moves from our hand into the object, giving rise to the sensation of cold. The opposite occurs when our hand meets a warm body: caloric then travels from that body into our hand, producing the feeling of heat. If both our hand and the object are of identical or nearly identical temperature, no sensation appears, because there is no movement of caloric; and consequently, no perception can arise without motion to cause it.
+
+When a thermometer rises, it signifies that free caloric is entering surrounding bodies. The thermometer, being one of these bodies, receives its share according to its mass and the capacity it has for containing caloric. Thus, the alteration of the thermometer merely signals a shift in the location of caloric among those bodies, one of which is the thermometer itself. It reveals only the portion that has entered, not the entire amount set free, transferred, or absorbed.
+If we submerge equal-sized blocks of different woods—imagine one-foot cubes—into water, the liquid slowly works its way through their pores, causing each block to increase both in mass and in bulk. Yet every kind of wood absorbs its own amount of water; lighter, more porous varieties take in more, while dense or tightly grained woods admit less. The proportion each sample receives depends on the nature of its particles and on how strongly they interact with water. For example, a very resin-rich wood, even when quite porous, will soak up only a small quantity. Thus we may say that various woods possess different abilities for admitting water; and although we can determine how much they gained in weight, showing what they actually absorbed, we cannot discover the absolute amount within them after immersion, since we do not know how much moisture they already held before being placed in the water.
+
+Exactly the same general conditions occur with bodies surrounded by caloric; yet we must keep in mind that water cannot be compressed, while caloric, in contrast, has remarkable elasticity. In other words, the particles of caloric tend to separate when pushed closer together by any external force. This contrast between the two fluids necessarily produces very notable differences in the results of experiments made upon them.
+
+With these simple principles laid down, it becomes easy to clarify the terms that follow, which differ in meaning and must not be taken as equivalent:
+
+Free caloric is that portion not bound in any way to another substance. But because we live in a world where caloric clings strongly to surrounding matter, we can never isolate it in a state of perfect liberty.
+
+Combined caloric is that which is fixed within a body by affinity or selective attraction, becoming part of its substance and even contributing to its solidity.
+
+The phrase specific caloric refers to the relative amounts of caloric needed to raise equal weights of different bodies to the same temperature. This proportion depends upon the spacing between their constituent particles and the degree to which those particles cohere. The space created by these intervals—already noted above—is what we call the capacity of bodies for containing caloric.
+
+Heat, when considered as a sensation, or sensible heat, is nothing more than the effect made upon our nerves by the movement or transfer of caloric leaving nearby bodies. In nearly every case, sensation results from motion; we might frame the axiom, WITHOUT MOTION THERE CAN BE NO SENSATION. This applies very precisely to feelings of heat and cold. When we touch something cold, the caloric that tends to equalize itself in all bodies flows from our hand into the colder substance, producing the sensation of cold. The reverse happens when touching something warm; caloric then moves into the hand, yielding the sense of heat. If both hand and object share the same temperature, we feel neither warmth nor chill, because no motion of caloric occurs; without motion, no sensation can arise.
+
+When a thermometer rises, it simply shows that free caloric is entering the surrounding bodies. The thermometer itself receives a share, proportional to its size and to the capacity it has for holding caloric. The change it displays merely reveals that caloric has shifted its place among those bodies of which the thermometer is one part; it indicates only the amount taken in by the instrument, not the full quantity released, moved, or absorbed elsewhere.
